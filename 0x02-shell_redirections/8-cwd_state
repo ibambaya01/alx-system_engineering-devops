@@ -1,2 +1,2 @@
 #!/bin/bash
-vi it displays all files completely including hidde files > ls_cwd_contentn
+vi The output will show the file details, including the file name, permissions, owner, group, size, and creation/modification timestamps > ls_cwd_contentn
