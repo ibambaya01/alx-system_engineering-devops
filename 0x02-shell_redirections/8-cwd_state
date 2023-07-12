@@ -1,2 +1,2 @@
 #!/bin/bash
-vi The output will show the file details, including the file name, permissions, owner, group, size, and creation/modification timestamps > ls_cwd_contentn
+echo "ls -la" > ls_cwd_content
